@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(1, 246, 209);
+    text-align: center;
+}
+div {
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 15px;
+}
+h1{
+    color: rgb(1, 246, 209);
+}
+button {
+    height: 80px;
+    width: 80px;
+    border: none;
+    background-color: rgb(1, 246, 209);
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 10px;
+}
+button:active {
+    background-color: rgb(12, 172, 148);
+}
+i {
+    font-size: 40px;
+}
